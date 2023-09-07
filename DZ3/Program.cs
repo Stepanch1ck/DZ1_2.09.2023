@@ -13,7 +13,7 @@ class Progrem
         double rad = Convert.ToDouble(radiuss);
         Console.WriteLine("Длина:" + 2 * Math.PI * rad);
         Console.WriteLine("Площадь:" + Math.PI * rad * rad);
-        Console.WriteLine("Нажмите, чтобы закрыть");
+        Console.WriteLine("Нажмите enter");
         Console.ReadKey();
 
 

@@ -31,7 +31,7 @@ class Progrem
             Console.WriteLine("Вы ввели не число");
         }
         Console.WriteLine("Результат:" + chis2 + " " + chis1);
-        Console.WriteLine("Нажмите, чтобы закрыть");
+        Console.WriteLine("Нажмите enter");
         Console.ReadKey();
 
 

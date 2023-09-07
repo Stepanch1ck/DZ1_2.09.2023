@@ -16,7 +16,7 @@ class Progrem
         string input2 = Console.ReadLine();
         double y2 = Convert.ToDouble(input2);
         Console.WriteLine(Math.Cos(y2));
-        Console.WriteLine("Нажмите, чтобы закрыть");
+        Console.WriteLine("Нажмите enter");
         Console.ReadKey();
 
 
