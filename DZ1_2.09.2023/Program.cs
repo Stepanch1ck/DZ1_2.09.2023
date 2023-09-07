@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace домашнее_задание_1;
+namespace DZ1_2._09._2023;
 
 class Progrem
 {
